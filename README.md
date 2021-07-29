@@ -1,2 +1,2 @@
 # hydro
-NodeMCU/ESP8266 powered hydroponics monitoring
+NodeMCU/ESP8266 powered hydroponics monitoring.
